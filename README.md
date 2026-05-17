@@ -1,7 +1,8 @@
 # Plataforma Web de Gestión de Tutorías Académicas
 
 > **Proyecto de Aula**
-> **Asignatura:** Java B192  
+> **Asignatura:** Java
+> **Grupo:** B192  
 > **Institución:** Unidades Tecnológicas de Santander (UTS)
 
 
