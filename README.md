@@ -5,7 +5,7 @@
 | **Institución** | Unidades Tecnológicas de Santander (UTS) |
 | **Asignatura** | Proyecto Java (B192) |
 | **Proyecto** | Sistema de Gestión de Tutorías |
-| **Desarrolladores** | Maria Fernanda Caceres Ortiz<br>Keyner Mendoza<br>Felipe |
+| **Desarrolladores** | Maria Fernanda Caceres <br>Keyner Camilo Bueno Mendoza<br>Juan Felipe Celis |
 
 ---
 
