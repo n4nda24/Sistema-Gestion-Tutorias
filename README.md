@@ -55,5 +55,3 @@ El sistema segmenta sus capacidades funcionales a través de tres perfiles de us
 * **Consistencia Relacional:** El motor MariaDB asegura que no existan colisiones de reservas simultáneas para un mismo bloque horario.
 
 ---
-*Nota: Este repositorio contiene la documentación inicial y el código fuente correspondiente al desarrollo de la plataforma.*
-
